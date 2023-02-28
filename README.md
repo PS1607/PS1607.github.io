@@ -1,6 +1,10 @@
-# [PS1607](https://g.dev/PS1607)
 <p float="left">
-  <img src="https://www.gstatic.com/devrel-devsite/prod/vc1297c14e883386d1f62a6331e02f40717d89cc8c6640263fbfdb91f0f9a5401/developers/images/lockup.svg" width="500" />
+  <img src="https://www.gstatic.com/devrel-devsite/prod/vc1297c14e883386d1f62a6331e02f40717d89cc8c6640263fbfdb91f0f9a5401/developers/images/lockup.svg" width="300" />
+</p>
+
+# [PS1607](https://g.dev/PS1607)
+
+<p float="left">
   <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="100" />
   <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-one/badge.svg" width="100" /> 
   <img src="https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg" width="100" />
